@@ -1,0 +1,80 @@
+0 person person
+1 bicycle vehicle
+2 car vehicle
+3 motorcycle vehicle
+4 airplane vehicle
+5 bus vehicle
+6 train vehicle
+7 truck vehicle
+8 boat vehicle
+9 traffic light outdoor
+10 fire hydrant outdoor
+11 stop sign outdoor
+12 parking meter outdoor
+13 bench outdoor
+14 bird animal
+15 cat animal
+16 dog animal
+17 horse animal
+18 sheep animal
+19 cow animal
+20 elephant animal
+21 bear animal
+22 zebra animal
+23 giraffe animal
+24 backpack accessory
+25 umbrella accessory
+26 handbag accessory
+27 tie accessory
+28 suitcase accessory
+29 frisbee sports
+30 skis sports
+31 snowboard sports
+32 sports ball sports
+33 kite sports
+34 baseball bat sports
+35 baseball glove sports
+36 skateboard sports
+37 surfboard sports
+38 tennis racket sports
+39 bottle kitchen
+40 wine glass kitchen
+41 cup kitchen
+42 fork kitchen
+43 knife kitchen
+44 spoon kitchen
+45 bowl kitchen
+46 banana food
+47 apple food
+48 sandwich food
+49 orange food
+50 broccoli food
+51 carrot food
+52 hot dog food
+53 pizza food
+54 donut food
+55 cake food
+56 chair furniture
+57 couch furniture
+58 potted plant furniture
+59 bed furniture
+60 dining table furniture
+61 toilet furniture
+62 tv electronic
+63 laptop electronic
+64 mouse electronic
+65 remote electronic
+66 keyboard electronic
+67 cell phone electronic
+68 microwave appliance
+69 oven appliance
+70 toaster appliance
+71 sink appliance
+72 refrigerator appliance
+73 book indoor
+74 clock indoor
+75 vase indoor
+76 scissors indoor
+77 teddy bear indoor
+78 hair drier indoor
+79 toothbrush indoor
